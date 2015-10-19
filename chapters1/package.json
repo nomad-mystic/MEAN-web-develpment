@@ -1,0 +1,22 @@
+{
+  "name": "MEAN",
+  "version": "0.0.1",
+  "description": "THis is going to be the JSON package for the MEAN Development book ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "Angular",
+    "Node.js"
+  ],
+  "author": "Keith Murphy",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "express": "latest",
+    "grunt": "latest"
+  }
+}
